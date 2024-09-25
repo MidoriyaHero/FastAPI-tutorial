@@ -1,4 +1,4 @@
-# Lecture 1
+# Lecture 1 GET/POST/PUT/DELETE
 ## Description:
 This lecture will describe put get post delete method in FastAPI
 
@@ -13,6 +13,7 @@ Normally you use:
 
 ## USE THIS COMMAND TO START APP SERVER:
 ```
+cd Lecture 1
 uvicorn main:app --reload
 ```
 
