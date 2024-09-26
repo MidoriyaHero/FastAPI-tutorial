@@ -17,3 +17,9 @@ then the first one will always be used since the path matches first
 
 Similarly, you cannot redefine a path operation
 ```
+
+## USE THIS COMMAND TO START APP SERVER:
+```
+cd Lecture 2
+uvicorn main:app --reload
+```
