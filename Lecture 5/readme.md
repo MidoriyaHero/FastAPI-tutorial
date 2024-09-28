@@ -1,4 +1,4 @@
-# Lecture 4: Request Body
+# Lecture 5: Query Parameters and String Validations
 READ THIS [LINK](https://fastapi.tiangolo.com/tutorial/query-params-str-validations/) to learn about the basic concept
 
 ### Here I will give you somethings that I noted:
@@ -32,6 +32,6 @@ pattern
 ```
 ## USE THIS COMMAND TO START APP SERVER:
 ```
-cd Lecture 4
+cd Lecture 5
 uvicorn main:app --reload
 ```
