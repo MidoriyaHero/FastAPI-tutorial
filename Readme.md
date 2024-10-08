@@ -14,3 +14,7 @@ conda activate fastapi
 git clone https://github.com/MidoriyaHero/FastAPI-tutorial.git
 pip install -r requirements.txt
 ```
+# Form the second run just use these command
+```
+conda activate fastapi
+```
